@@ -1,5 +1,9 @@
 HELLO PROGRAMMER 1 HERE!
+<<<<<<< HEAD
 PROGRAMMER 2 HERE TRY
 editing in branch develop
 programmer 1 trying to edit again in branch develop
 programmer 2 trying to edit in branch develop
+=======
+PROGRAMMER 2 HERE TRY
+>>>>>>> ba532781d208cb4637016421ea487e38e978dcb4
